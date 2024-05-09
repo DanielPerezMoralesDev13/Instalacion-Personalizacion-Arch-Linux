@@ -1,24 +1,54 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-# **Licencia MIT**
+# ***Código de Conducta***
 
-## **Derechos de Autor (c) 2024 DanielPerezMoralesDev13**
+## ***Nuestra Promesa***
 
-*Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia*
-*de este software y los archivos de documentación asociados (el "Software"), para tratar*
-*con el Software sin restricciones, incluidos, entre otros, los derechos*
-*para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender*
-*copias del Software, y permitir a las personas a las que se les proporcione el Software*
-*hacerlo, sujeto a las siguientes condiciones:*
+*En [nombre_del_repositorio], nos comprometemos a crear y mantener un ambiente respetuoso y acogedor para todos, independientemente de su edad, tamaño, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, educación, nivel socioeconómico, nacionalidad, apariencia personal, raza, religión o identidad y orientación sexual.*
 
-*Se debe incluir el aviso de derechos de autor anterior y este aviso de permiso en todas*
-*las copias o partes sustanciales del Software.*
+## ***Nuestros Estándares***
 
-*EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA,*
-*INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN,*
-*IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS*
-*AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRO*
-*RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, DERIVADOS DE,*
-*FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRO TIPO DE ACCIONES EN*
-*EL SOFTWARE.*
+*Ejemplos de comportamiento que contribuyen a crear un ambiente positivo incluyen:*
+
+- *Respetar las opiniones, puntos de vista y experiencias de los demás.*
+
+- *Aceptar la crítica constructiva de manera profesional.*
+
+- *Enfocarse en lo que es mejor para la comunidad.*
+
+- *Mostrar empatía hacia otros miembros de la comunidad.*
+
+**Ejemplos de comportamiento inaceptable incluyen:**
+
+- *El uso de lenguaje o imágenes sexualizadas y atención o avances sexuales no deseados.*
+
+- *Comentarios ofensivos o despectivos, insultos personales, trolling o publicaciones inflamatorias/derogatorias.*
+
+- *Acoso público o privado.*
+
+- *Publicación de información privada de otros, como direcciones físicas o electrónicas, sin permiso explícito.*
+
+- *Cualquier otra conducta que se considere inapropiada en un entorno profesional.*
+
+## ***Nuestras Responsabilidades***
+
+*Los mantenedores del proyecto son responsables de aclarar los estándares de comportamiento aceptable y se espera que tomen medidas correctivas apropiadas y justas en respuesta a cualquier instancia de comportamiento inaceptable.*
+
+*Los mantenedores del proyecto tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, commits, código, ediciones de wiki, problemas y otras contribuciones que no estén alineadas con este Código de Conducta, o de prohibir temporal o permanentemente a cualquier colaborador por comportamientos que consideren inapropiados, amenazantes, ofensivos o dañinos.*
+
+## ***Alcance***
+
+*Este Código de Conducta se aplica tanto dentro de los espacios del proyecto como en espacios públicos cuando un individuo representa al proyecto o a su comunidad. Ejemplos de representación del proyecto incluyen el uso de una dirección de correo electrónico oficial del proyecto, publicación a través de una cuenta oficial de redes sociales, o actuar como representante designado en un evento en línea o fuera de línea. La representación del proyecto puede ser definida y clarificada por los mantenedores del proyecto.*
+
+## ***Aplicación***
+
+*Los casos de comportamiento abusivo, acosador o de otro modo inaceptable pueden ser reportados contactando al equipo del proyecto en [danielperezdev@proton.me]. Todas las quejas serán revisadas e investigadas y darán como resultado una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo del proyecto está obligado a mantener la confidencialidad en cuanto al reportador de un incidente. Se pueden publicar detalles específicos de políticas de aplicación adicionales por separado.*
+
+*Los mantenedores del proyecto que no sigan o hagan cumplir el Código de Conducta de buena fe pueden enfrentar repercusiones temporales o permanentes determinadas por otros miembros de la dirección del proyecto.*
+
+## ***Atribución***
+
+*Este Código de Conducta está adaptado del [Contributor Covenant](https://www.contributor-covenant.org), versión 2.0, disponible en [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)*
+
+*Para obtener respuestas a preguntas comunes sobre este código de conducta, consulte las [Preguntas Frecuentes](https://www.contributor-covenant.org/faq)*
