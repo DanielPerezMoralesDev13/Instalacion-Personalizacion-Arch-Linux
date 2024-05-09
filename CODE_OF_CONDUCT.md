@@ -2,54 +2,54 @@
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
 
-# ***Código de Conducta***
+# **Code of Conduct**
 
-## ***Nuestra Promesa***
+## **Our Promise**
 
-*En [nombre_del_repositorio], nos comprometemos a crear y mantener un ambiente respetuoso y acogedor para todos, independientemente de su edad, tamaño, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, educación, nivel socioeconómico, nacionalidad, apariencia personal, raza, religión o identidad y orientación sexual.*
+*In [nombre_del_repositorio], we are committed to creating and maintaining a respectful and welcoming environment for everyone, regardless of age, size, disability, ethnicity, identity and expression of gender, level of experience, education, socioeconomic status, nationality, personal appearance, race, religion, or sexual identity and orientation.*
 
-## ***Nuestros Estándares***
+## **Our Standards**
 
-*Ejemplos de comportamiento que contribuyen a crear un ambiente positivo incluyen:*
+*Examples of behavior that contribute to creating a positive environment include:*
 
-- *Respetar las opiniones, puntos de vista y experiencias de los demás.*
+- *Respecting the opinions, viewpoints, and experiences of others.*
 
-- *Aceptar la crítica constructiva de manera profesional.*
+- *Accepting constructive criticism professionally.*
 
-- *Enfocarse en lo que es mejor para la comunidad.*
+- *Focusing on what is best for the community.*
 
-- *Mostrar empatía hacia otros miembros de la comunidad.*
+- *Showing empathy towards other community members.*
 
-**Ejemplos de comportamiento inaceptable incluyen:**
+**Examples of unacceptable behavior include:**
 
-- *El uso de lenguaje o imágenes sexualizadas y atención o avances sexuales no deseados.*
+- *The use of sexualized language or imagery and unwelcome sexual attention or advances.*
 
-- *Comentarios ofensivos o despectivos, insultos personales, trolling o publicaciones inflamatorias/derogatorias.*
+- *Offensive or derogatory comments, personal insults, trolling, or inflammatory/derogatory posts.*
 
-- *Acoso público o privado.*
+- *Public or private harassment.*
 
-- *Publicación de información privada de otros, como direcciones físicas o electrónicas, sin permiso explícito.*
+- *Posting others' private information, such as physical or electronic addresses, without explicit permission.*
 
-- *Cualquier otra conducta que se considere inapropiada en un entorno profesional.*
+- *Any other conduct that is considered inappropriate in a professional setting.*
 
-## ***Nuestras Responsabilidades***
+## **Our Responsibilities**
 
-*Los mantenedores del proyecto son responsables de aclarar los estándares de comportamiento aceptable y se espera que tomen medidas correctivas apropiadas y justas en respuesta a cualquier instancia de comportamiento inaceptable.*
+*Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.*
 
-*Los mantenedores del proyecto tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, commits, código, ediciones de wiki, problemas y otras contribuciones que no estén alineadas con este Código de Conducta, o de prohibir temporal o permanentemente a cualquier colaborador por comportamientos que consideren inapropiados, amenazantes, ofensivos o dañinos.*
+*Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct, or to temporarily or permanently ban any contributor for behaviors they deem inappropriate, threatening, offensive, or harmful.*
 
-## ***Alcance***
+## **Scope**
 
-*Este Código de Conducta se aplica tanto dentro de los espacios del proyecto como en espacios públicos cuando un individuo representa al proyecto o a su comunidad. Ejemplos de representación del proyecto incluyen el uso de una dirección de correo electrónico oficial del proyecto, publicación a través de una cuenta oficial de redes sociales, o actuar como representante designado en un evento en línea o fuera de línea. La representación del proyecto puede ser definida y clarificada por los mantenedores del proyecto.*
+*This Code of Conduct applies both within project spaces and in public spaces when an individual represents the project or its community. Examples of representing the project include using an official project email address, posting through an official social media account, or acting as an appointed representative at an online or offline event. Representation of the project may be further defined and clarified by project maintainers.*
 
-## ***Aplicación***
+## **Enforcement**
 
-*Los casos de comportamiento abusivo, acosador o de otro modo inaceptable pueden ser reportados contactando al equipo del proyecto en [danielperezdev@proton.me]. Todas las quejas serán revisadas e investigadas y darán como resultado una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo del proyecto está obligado a mantener la confidencialidad en cuanto al reportador de un incidente. Se pueden publicar detalles específicos de políticas de aplicación adicionales por separado.*
+*Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [danielperezdev@proton.me]. All complaints will be reviewed and investigated, and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Specific enforcement policies may be posted separately.*
 
-*Los mantenedores del proyecto que no sigan o hagan cumplir el Código de Conducta de buena fe pueden enfrentar repercusiones temporales o permanentes determinadas por otros miembros de la dirección del proyecto.*
+*Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.*
 
-## ***Atribución***
+## **Attribution**
 
-*Este Código de Conducta está adaptado del [Contributor Covenant](https://www.contributor-covenant.org), versión 2.0, disponible en [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)*
+*This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)*
 
-*Para obtener respuestas a preguntas comunes sobre este código de conducta, consulte las [Preguntas Frecuentes](https://www.contributor-covenant.org/faq)*
+*For answers to common questions about this code of conduct, see the [FAQ](https://www.contributor-covenant.org/faq)*

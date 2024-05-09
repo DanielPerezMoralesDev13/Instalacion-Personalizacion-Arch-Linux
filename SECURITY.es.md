@@ -1,32 +1,33 @@
+
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-# **Security Policy**
+# ***Política de Seguridad***
 
-## **Vulnerability Reporting**
+## ***Reporte de Vulnerabilidades***
 
-*At [nombre_del_repositorio], we take the security of our code and our users very seriously. If you discover a vulnerability that could compromise the security of the project, we encourage you to let us know immediately. We appreciate and reward the efforts of those who help us improve the security of our software.*
+*En [nombre_del_repositorio], nos tomamos muy en serio la seguridad de nuestro código y de nuestros usuarios. Si descubres una vulnerabilidad que podría comprometer la seguridad del proyecto, te animamos a que nos lo hagas saber de inmediato. Agradecemos y recompensamos los esfuerzos de aquellos que nos ayudan a mejorar la seguridad de nuestro software.*
 
-**Please follow these guidelines when reporting a vulnerability:**
+**Por favor, sigue estas pautas al reportar una vulnerabilidad:**
 
-- *Send an email to [danielperezdev@proton.me] with the subject "Vulnerability Report".*
+- *Envía un correo electrónico a [danielperezdev@proton.me] con el asunto "Reporte de Vulnerabilidad".*
 
-- *Provide a detailed description of the vulnerability, including steps to reproduce it if possible.*
+- *Proporciona una descripción detallada de la vulnerabilidad, incluyendo pasos para reproducirla si es posible.*
 
-- *Provide information about the affected software version, if relevant.*
+- *Proporciona información sobre la versión del software afectada, si es relevante.*
 
-- *If you have found a vulnerability in an open-source library that we are using, please follow the responsible disclosure procedures of that library.*
+- *Si has encontrado una vulnerabilidad en una biblioteca de código abierto que estamos utilizando, por favor, sigue los procedimientos de divulgación responsable de esa biblioteca.*
 
-*Once we receive your report, we commit to:*
+*Una vez que recibamos tu reporte, nos comprometemos a:*
 
-- *Confirm receipt of the report within [7] business days.*
+- *Confirmar la recepción del reporte en un plazo de [7] días hábiles.*
 
-- *Evaluate the vulnerability and determine its impact on the project's security.*
+- *Evaluar la vulnerabilidad y determinar su impacto en la seguridad del proyecto.*
 
-- *Work on a solution and provide an update on the progress within a reasonable timeframe.*
+- *Trabajar en una solución y proporcionar una actualización sobre el progreso dentro de un plazo razonable.*
 
-- *Publicly attribute the discovery of the vulnerability unless you wish to remain anonymous.*
+- *Atribuir públicamente el descubrimiento de la vulnerabilidad a menos que desees permanecer en el anonimato.*
 
-## **Code Security**
+## ***Seguridad del Código***
 
-*Our team strives to maintain high standards of security in our code. We use best practices in secure development and conduct regular code reviews to identify and address potential security issues. If you find any security issues in our code, please do not hesitate to inform us following the aforementioned guidelines.*
+*Nuestro equipo se esfuerza por mantener altos estándares de seguridad en nuestro código. Utilizamos las mejores prácticas de desarrollo seguro y llevamos a cabo revisiones de código regulares para identificar y corregir posibles problemas de seguridad. Si encuentras algún problema de seguridad en nuestro código, no dudes en informarnos siguiendo las pautas mencionadas anteriormente.*
