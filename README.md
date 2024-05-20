@@ -1,11 +1,11 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-# **Installation and Customization of Arch Linux**
+# ***Installation and Customization of Arch Linux***
 
 *This repository provides instructions and resources for installing and customizing Arch Linux according to your needs.*
 
-## **Installing Arch Linux**
+## ***Installing Arch Linux***
 
 *To install Arch Linux, follow these steps:*
 
@@ -17,7 +17,7 @@
 
 4. **Follow the installation guide:** *Follow the [official Arch Linux installation guide](https://wiki.archlinux.org/title/Installation_guide) to perform the installation step by step. Make sure to understand each step before proceeding.*
 
-## **Customizing Arch Linux**
+## ***Customizing Arch Linux***
 
 *Once you have installed Arch Linux, you can customize it according to your preferences. Here are some suggestions:*
 
@@ -29,10 +29,10 @@
 
 - **Customize your terminal:** *Configure your terminal with your preferred color scheme, add useful aliases, install command-line tools, and more.*
 
-## **Contributions**
+## ***Contributions***
 
 *Contributions are welcome! If you have suggestions, corrections, or improvements for this repository, feel free to open an issue or submit a pull request.*
 
-## **License**
+## ***License***
 
 > This repository is published under the MIT License. Feel free to use, modify, and distribute the content according to the terms of this license.
