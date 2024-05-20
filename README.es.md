@@ -35,4 +35,4 @@
 
 ## ***Licencia***
 
-*Este repositorio está bajo la Licencia [MIT](LICENSE).*
+> Este repositorio se publica bajo la Licencia MIT. Siéntete libre de utilizar, modificar y distribuir el contenido de acuerdo con los términos de esta licencia.
