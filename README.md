@@ -35,4 +35,4 @@
 
 ## **License**
 
-*This repository is licensed under the [MIT License](LICENSE).*
+> This repository is published under the MIT License. Feel free to use, modify, and distribute the content according to the terms of this license.
