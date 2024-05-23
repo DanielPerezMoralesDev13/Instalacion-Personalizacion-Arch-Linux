@@ -5,7 +5,7 @@
 
 ## ***Reporte de Vulnerabilidades***
 
-*En [nombre_del_repositorio], nos tomamos muy en serio la seguridad de nuestro código y de nuestros usuarios. Si descubres una vulnerabilidad que podría comprometer la seguridad del proyecto, te animamos a que nos lo hagas saber de inmediato. Agradecemos y recompensamos los esfuerzos de aquellos que nos ayudan a mejorar la seguridad de nuestro software.*
+*En [Instalacion-Personalizacion-Arch-Linux], nos tomamos muy en serio la seguridad de nuestro código y de nuestros usuarios. Si descubres una vulnerabilidad que podría comprometer la seguridad del proyecto, te animamos a que nos lo hagas saber de inmediato. Agradecemos y recompensamos los esfuerzos de aquellos que nos ayudan a mejorar la seguridad de nuestro software.*
 
 **Por favor, sigue estas pautas al reportar una vulnerabilidad:**
 
