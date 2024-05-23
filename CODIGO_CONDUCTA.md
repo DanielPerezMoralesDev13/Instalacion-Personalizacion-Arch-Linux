@@ -5,7 +5,7 @@
 
 ## ***Nuestra Promesa***
 
-*En [nombre_del_repositorio], nos comprometemos a crear y mantener un ambiente respetuoso y acogedor para todos, independientemente de su edad, tamaño, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, educación, nivel socioeconómico, nacionalidad, apariencia personal, raza, religión o identidad y orientación sexual.*
+*En [Instalacion-Personalizacion-Arch-Linux], nos comprometemos a crear y mantener un ambiente respetuoso y acogedor para todos, independientemente de su edad, tamaño, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, educación, nivel socioeconómico, nacionalidad, apariencia personal, raza, religión o identidad y orientación sexual.*
 
 ## ***Nuestros Estándares***
 
