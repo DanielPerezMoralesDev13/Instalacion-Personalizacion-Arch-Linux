@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 # Autor: Daniel Benjamin Perez Morales
 # GitHub: https://github.com/DanielPerezMoralesDev13
 # Correo electrónico: danielperezdev@proton.me 
@@ -30,21 +31,21 @@ genfstab -U /mnt >> /mnt/etc/fstab
 arch-chroot /mnt
 ln -sf /usr/share/zoneinfo/Europe/Madrid /etc/localtime
 hwclock --systohc
-pacman -S nano
+pacman -Syu --noconfirm nano
 nano /etc/locale.gen  # Buscar en_US.UTF-8 UTF-8 y es_ES.UTF-8 UTF-8
 locale-gen
 echo "KEYMAP=es" > /etc/vconsole.conf  # O usar nano
 echo "Arch" > /etc/hostname  # O usar nano
 nano /etc/hosts  # Escribir lo que pone en la guía
 passwd root # Asignar contraseña al root
-pacman -S networkmanager
+pacman -Syu --noconfirm networkmanager
 systemctl enable NetworkManager
-pacman -S grub
+pacman -Syu --noconfirm grub
 grub-install /dev/sda
 grub-mkconfig -o /boot/grub/grub.cfg
 useradd -m usuario
 passwd usuario  # Asignar contraseña al usuario
-pacman -S sudo
+pacman -Syu --noconfirm sudo
 usermod -aG wheel,audio,video,storage usuario
 nano /etc/sudoers  # Descomentar wheel
 exit

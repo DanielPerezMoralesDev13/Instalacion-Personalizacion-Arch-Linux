@@ -38,7 +38,7 @@ genfstab -U /mnt >> /mnt/etc/fstab
 arch-chroot /mnt
 ln -sf /usr/share/zoneinfo/Europe/Madrid /etc/localtime
 hwclock --systohc
-pacman -S nano
+pacman -Syu --noconfirm nano
 nano /etc/locale.gen  # Buscar en_US.UTF-8 UTF-8 y es_ES.UTF-8 UTF-8
 locale-gen
 echo "LANG=es_ES.UTF-8" > /etc/locale.conf
@@ -46,15 +46,15 @@ echo "KEYMAP=es" > /etc/vconsole.conf
 echo "asus" > /etc/hostname
 nano /etc/hosts
 passwd root
-pacman -S networkmanager
+pacman -Syu --noconfirm networkmanager
 systemctl enable NetworkManager
-pacman -S grub efibootmgr
+pacman -Syu --noconfirm grub efibootmgr
 grub-install --target=x86_64-efi --efi-directory=/boot
 grub-mkconfig -o /boot/grub/grub.cfg
 useradd -m usuario
 passwd usuario
 usermod -aG wheel,audio,video,storage usuario
-pacman -S sudo
+pacman -Syu --noconfirm sudo
 nano /etc/sudoers
 exit
 umount -R /mnt
@@ -66,7 +66,7 @@ shutdown -h now
 nmcli device wifi list
 nmcli device wifi connect Nombre password Contraseña
 ping archlinux.org
-sudo pacman -S xorg
-sudo pacman -S plasma-meta kde-applications-meta
+sudo pacman -Syu --noconfirm xorg
+sudo pacman -Syu --noconfirm plasma-meta kde-applications-meta
 sudo systemctl enable sddm
 reboot
